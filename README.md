@@ -1,6 +1,6 @@
 # Numerical Methods Playground
 
-This repository is a basic educational tool for experimenting with and visualizing numerical methods, focusing on concepts like numerical differentiation. It includes Python code for implementing and visualizing numerical algorithms.
+This repository is a basic educational tool for experimenting with and visualizing numerical methods, focusing on concepts like numerical differentiation. It includes Python code for implementing and visualizing numerical algorithms. A basic grasp of Python is assumed
 
 ## Features
 
